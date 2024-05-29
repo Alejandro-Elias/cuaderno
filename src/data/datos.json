@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "Titulo": "Next",
+        "tema": [
+            {
+                "subtitulo": "Creación de Rutas en Next",
+                "descripcion": "Para crear una ruta en Next.js, debes crear una carpeta con el nombre de la ruta y dentro de esta carpeta un archivo llamado `page.xxx` (donde `xxx` puede ser `js` o `ts`).",
+                "ejemplo" : "ejemplo"
+            },
+            {
+                "subtitulo": "Next",
+                "descripcion": "descripcion"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "Titulo": "TypeScript",
+        "tema": [
+            {
+                "subtitulo": "Next",
+                "descripcion": "descripcion"
+            },
+            {
+                "subtitulo": "Next",
+                "descripcion": "descripcion"
+            }
+        ]
+    }
+]

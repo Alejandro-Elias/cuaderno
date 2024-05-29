@@ -39,6 +39,7 @@
   width: 90%;
   background-color: beige;
   border: 1px solid white;
+  margin-top: 20px;
 }
 
 /* Enable hover only on non-touch devices */
