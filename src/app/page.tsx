@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
-import Menu from '@/components/Menu';
+import Menu from '@/src/components/Menu';
 
 export default function Home() {
 
