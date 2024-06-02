@@ -13,7 +13,7 @@
 }
 
 .center::after {
-  background: var(--primary-glow);
+  background: #81431b;
   width: 240px;
   height: 180px;
   z-index: -1;

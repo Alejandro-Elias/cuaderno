@@ -1,13 +1,15 @@
 import React from 'react'
+import styles from '@/src/app/viewInfo/viewInfo.module.css'
 
 type Props = {}
 
 const FormAddPage: React.FC<Props> = (props: Props) => {
   return (
     <div>
-      <div style={{ marginTop: 50, borderRadius: 10, borderColor: "10px solid green", padding: "5px 15px 0 15px" }} className='container teal darken-4'>
-        <h3 style={{ paddingBottom: 15 }}>Ingresar Nuevo Tema</h3>
-        <div className="row">
+      <div  className={`container ${styles.main}`}>
+        <h5 style={{ paddingBottom: 15, color: "#d87d3d", textAlign: "center" }}>Ingresar Nuevo Tema</h5>
+
+        <div className={`column %{styles.input}`}>
           <form className="col s12">
             <div className="row">
               <div className="input-field col s6">

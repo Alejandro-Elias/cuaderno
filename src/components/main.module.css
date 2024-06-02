@@ -2,10 +2,15 @@
     display: flex;
     flex-direction: row;    
     gap: 10px;
-    padding-top: 20px;
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: large;
 }
 
 .li {
     text-decoration: none;
     list-style-type: none;
+    color: #d87d3d;
 }
